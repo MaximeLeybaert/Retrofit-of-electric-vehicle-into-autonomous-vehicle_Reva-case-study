@@ -1,0 +1,39 @@
+\newacronym{gcd}{GCD}{Greatest Common Divisor}
+\newacronym{lcm}{LCM}{Least Common Multiple}
+\newacronym{ac}{AC}{Alternative Current}
+\newacronym{ai}{AI}{Artificial Intelligence}
+\newacronym{adas}{ADAS}{Advanced Driver Assistance System}
+\newacronym[\glsshortpluralkey={AVs}, \glslongpluralkey={Autonomous Vehicles}]{av}{AV}{Autonomous Vehicle}
+\newacronym{can}{CAN}{Controller Area Network}
+\newacronym{cnn}{CNN}{Convolutional Neural Network}
+\newacronym{crio}{cRIO}{Compact Redefinable Input and Output}
+\newacronym{darpa}{DARPA}{Defense Advanced Research Projects Agency}
+\newacronym{das}{DAS}{Driving Assistance System}
+\newacronym{dc}{DC}{Direct Current}
+\newacronym{dmu}{DMU}{Decision Making Unit}
+\newacronym{ev}{EV}{Electric Vehicle}
+\newacronym{ecu}{ECU}{Electronic Control Unit}
+\newacronym{ems}{EMS}{Energy Management System}
+\newacronym{fpga}{FPGA}{Field-programmable gate array}
+\newacronym{gps}{GPS}{Global Positioning System}
+\newacronym{hv}{HV}{Hybrid Vehicle}
+\newacronym{hev}{HEV}{Hybrid Electric Vehicle}
+\newacronym{ice}{ICE}{Internal Combustion Engines}
+\newacronym{im}{IM}{Induction Motor}
+\newacronym{io}{I/O}{Input/Output}
+\newacronym{ifoc}{IFOC}{Indirect Flux Oriented Control}
+\newacronym{lidar}{LIDAR}{Light Detection And Ranging}
+\newacronym{mpc}{MPC}{Model Predictive Control}
+\newacronym{ni}{NI}{National Instruments}
+\newacronym{nn}{NN}{Neural Network}
+\newacronym{opamp}{Op Amp}{Operational Amplifier}
+\newacronym{pid}{PID}{Proportional Integral Derivative}
+\newacronym{pi}{PI}{Proportional Integral}
+\newacronym{prbs}{PRBS}{Pseudo Random Binary Signal}
+\newacronym{radar}{RADAR}{Radio Detection And Ranging}
+\newacronym{rms}{RMS}{Root main square}
+\newacronym{rt}{RT}{Real-Time}
+\newacronym{sae}{SAE}{Society of Automotive Engineers}
+\newacronym{sdv}{SDV}{Self-Driving Vehicle}
+\newacronym{us}{US}{Ultrasound}
+\newacronym{vub}{VUB}{Vrije Universiteit Brussel}

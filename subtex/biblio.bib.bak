@@ -1,0 +1,521 @@
+%%%% State of the art of autonomous driving %%%%
+@article{A_survey_of_motion,
+  author    = {Brian Paden and
+               Michal C{\'{a}}p and
+               Sze Zheng Yong and
+               Dmitry S. Yershov and
+               Emilio Frazzoli},
+  title     = {A Survey of Motion Planning and Control Techniques for Self-driving
+               Urban Vehicles},
+  journal   = {CoRR},
+  volume    = {abs/1604.07446},
+  year      = {2016},
+  url       = {http://arxiv.org/abs/1604.07446},
+  archivePrefix = {arXiv},
+  eprint    = {1604.07446},
+  timestamp = {Wed, 07 Jun 2017 14:40:33 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/PadenCYYF16},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{the_milwaukee_sentinel_1926,
+title={Phantom auto will tour the city},
+url={https://news.google.com/newspapers?id=unBQAAAAIBAJ&sjid=QQ8EAAAAIBAJ&pg=7304,3766749}, journal={The Milwaukee Sentinel}, 
+date={1926-12}, 
+pages={4}, 
+author={},urldate = {2018-08-17}}
+
+@Article{en11010120,
+AUTHOR = {Wang, Fengxiang and Zhang, Zhenbin and Mei, Xuezhu and Rodríguez, José and Kennel, Ralph},
+TITLE = {Advanced Control Strategies of Induction Machine: Field Oriented Control, Direct Torque Control and Model Predictive Control},
+JOURNAL = {Energies},
+VOLUME = {11},
+YEAR = {2018},
+NUMBER = {1},
+URL = {http://www.mdpi.com/1996-1073/11/1/120},
+ISSN = {1996-1073}
+}
+
+@misc{Hella_slides,
+  Author = {Thomas Dammeier},
+  Institution = {Hella Aglaia},
+  Year = {2017},
+  Title = {Requirements for functional architectures and interfaces in centralized multi-sensor systems for automated driving}
+}
+
+@misc{fridman_2, title={MIT 6.S094: Deep Learning for Self-Driving Cars}, url={https://selfdrivingcars.mit.edu/}, journal={Deep Learning for Self-Driving Cars}, publisher={MIT}, author={Fridman, Lex},urldate={2018-08-29}}
+
+@book{Siegwart,
+ author = {Siegwart, Roland and Nourbakhsh, Illah R.},
+ title = {Introduction to Autonomous Mobile Robots},
+ year = {2004},
+ isbn = {026219502X},
+ publisher = {Bradford Company},
+ address = {Scituate, MA, USA}
+} 
+
+@manual{Curtis_User_Manual,
+	title     = "Curtis 1236 User Manual",
+    url       = {http://www.thunderstruck-ev.com/Manuals/1234_36_38%20Manual%20Rev%20Feb%2009.pdf},
+    urldate = {2018-08-17},
+}
+
+@article{SurveyMotor,
+  title={A survey on comparison of electric motor types and drives used for electric vehicles},
+  author={Merve Yildirim and Mehmet Polat and Hasan Kurum},
+  journal={2014 16th International Power Electronics and Motion Control Conference and Exposition},
+  year={2014},
+  pages={218-223}
+}
+
+@article{ElectricDriveEV, title={Control of Electric Vehicle }, journal={University of Electronic Science and Technology of China }, author={Qi Huang and Jian Li and Yong Chen}}
+
+@book{wildi,
+  title={{\'E}lectrotechnique},
+  author={Wildi, T. and Sybille, G.},
+  isbn={9782804148928},
+  series={Physique g{\'e}n{\'e}rale},
+  year={2005},
+  publisher={De Boeck Sup{\'e}rieur}
+}
+
+@book{sysidLen,
+  title={System Identification: Theory for the User},
+  author={Ljung, L.},
+  isbn={9780136566953},
+  lccn={98018554},
+  series={Prentice Hall information and system sciences series},
+  year={1999},
+  publisher={Prentice Hall PTR}
+}
+
+@misc{fridman, title={MIT 6.S094: Deep Learning for Self-Driving Cars}, url={https://selfdrivingcars.mit.edu/}, journal={selfdrivingcars}, publisher={MIT}, author={Fridman, Lex}, urldate = {2018-05-17},}
+
+@book{waymo_safety_report, title={Waymo Safety Report : On the Road to Fully Self-Driving}, url={https://storage.googleapis.com/sdc-prod/v1/safety-report/Safety Report 2018.pdf}, journal={Waymo}, year={2018}, urldate="2018-06-15"}
+ 
+@book{herrmann2018autonomous,
+  title={Autonomous Driving: How the Driverless Revolution will Change the World},
+  author={Herrmann, A. and Brenner, W. and Stadler, R.},
+  isbn={9781787148338},
+  year={2018},
+  publisher={Emerald Publishing Limited}
+} 
+
+@article{SAE,
+title = "A taxonomy of autonomous vehicle handover situations",
+journal = "Transportation Research Part A: Policy and Practice",
+year = "2018",
+issn = "0965-8564",
+url = "http://www.sciencedirect.com/science/article/pii/S0965856417311072",
+author = "Rod McCall and Fintan McGee and Alexander Mirnig and Alexander Meschtscherjakov and Nicolas Louveton and Thomas Engel and Manfred Tscheligi",
+keywords = "Autonomous vehicles, Control transitions, Handover, Legal consequences, Taxonomy, Situational awareness"
+}
+
+@misc{wendt_2018, title={Saved by the Sensor: Vehicle Awareness in the Self-Driving Age}, url={https://goo.gl/bhYh8K}, journal={Machine Design}, author={Wendt, Zach}, data={2018-03}, urldate = {2018-05-08}}
+
+@ARTICLE{PrepaNation4AV,
+title = {Preparing a nation for autonomous vehicles: opportunities, barriers and policy recommendations},
+author = {Fagnant, Daniel J. and Kockelman, Kara},
+year = {2015},
+journal = {Transportation Research Part A: Policy and Practice},
+volume = {77},
+number = {C},
+pages = {167-181},
+keywords = {Vehicle automation; Autonomous vehicles; Cost-benefit analysis; Safety; Congestion; Market penetration;}
+}
+
+@article{Towards_Robotic_Cars,
+ author = {Thrun, Sebastian},
+ title = {Toward Robotic Cars},
+ journal = {Commun. ACM},
+ issue_date = {April 2010},
+ volume = {53},
+ number = {4},
+ month = apr,
+ year = {2010},
+ issn = {0001-0782},
+ pages = {99--106},
+ numpages = {8},
+ url = {http://doi.acm.org/10.1145/1721654.1721679},
+ doi = {10.1145/1721654.1721679},
+ acmid = {1721679},
+ publisher = {ACM},
+ address = {New York, NY, USA}
+} 
+
+@book{DAS_handbook,
+ author = {Winner, Hermann and Hakuli, Stephan and Lotz, Felix and Singer, Christina},
+ title = {Handbook of Driver Assistance Systems: Basic Information, Components and Systems for Active Safety and Comfort},
+ year = {2015},
+ isbn = {9783319123516},
+ edition = {1st},
+ publisher = {Springer Publishing Company, Incorporated}
+} 
+
+@article{Route_Planning,
+  author    = {Hannah Bast and
+               Daniel Delling and
+               Andrew V. Goldberg and
+               Matthias M{\"{u}}ller{-}Hannemann and
+               Thomas Pajor and
+               Peter Sanders and
+               Dorothea Wagner and
+               Renato F. Werneck},
+  title     = {Route Planning in Transportation Networks},
+  journal   = {CoRR},
+  volume    = {abs/1504.05140},
+  year      = {2015},
+  url       = {http://arxiv.org/abs/1504.05140},
+  archivePrefix = {arXiv},
+  eprint    = {1504.05140},
+  timestamp = {Wed, 07 Jun 2017 14:41:06 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/BastDGMPSWW15},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@book{McGrath_AVOSD,
+  title={Autonomous Vehicles: Opportunities, Strategies, and Disruptions},
+  author={MacGrath, M.E.},
+  isbn={9781980313854},
+  year={2018},
+  publisher={Michael E. McGrath}
+}
+
+
+@book{Hong_Cheng,
+author = {Hong Cheng},
+title = {Autonomous Intelligent Vehicles : Theory, Algorithms, and Implementation},
+year = {2011},
+publisher = {Springer Publishing Company, Incorporated}
+}
+
+@book{Handbook_DA,
+ author = {Winner, Hermann and Hakuli, Stephan and Lotz, Felix and Singer, Christina},
+ title = {Handbook of Driver Assistance Systems: Basic Information, Components and Systems for Active Safety and Comfort},
+ year = {2015},
+ isbn = {3319123513, 9783319123516},
+ edition = {1st},
+ publisher = {Springer Publishing Company, Incorporated}
+} 
+
+@ARTICLE{EnvPerc_overview, 
+author={H. Zhu and K. V. Yuen and L. Mihaylova and H. Leung}, 
+journal={IEEE Transactions on Intelligent Transportation Systems}, 
+title={Overview of Environment Perception for Intelligent Vehicles}, 
+date={2017-10}, 
+volume={18}, 
+number={10}, 
+pages={2584-2601}, 
+keywords={intelligent transportation systems;object detection;road traffic;road vehicles;traffic engineering computing;environment perception;intelligent vehicles;lane detection;road detection;traffic sign recognition;vehicle tracking;Feature extraction;Intelligent sensors;Intelligent vehicles;Laser radar;Roads;Intelligent vehicles;environment perception and modeling;lane and road detection;scene understanding;traffic sign recognition;vehicle tracking and behavior analysis}, 
+doi={10.1109/TITS.2017.2658662}, 
+ISSN={1524-9050},}
+
+@misc{Udacity,
+  Author = {Udacity},
+  Institution = {Udacity},
+  Howpublished = {Online lectures},
+  Year = {2018},
+  Title = {Self Driving Car Nanodegree program : Computer vision},
+  url = {https://eu.udacity.com/course/self-driving-car-engineer-nanodegree--nd013},
+  urldate = {2018-08-17}  
+}
+
+%%%% CONTROL %%%%%%%%
+@book{Modern_Control_System,
+ author = {Dorf, Richard C. and Bishop, Robert H.},
+ title = {Modern Control Systems},
+ year = {2010},
+ isbn = {0136024580},
+ edition = {12th},
+ publisher = {Prentice-Hall, Inc.},
+ address = {Upper Saddle River, NJ, USA}
+} 
+
+@book{Astrom_Murray,
+ author = {Astrom, Karl Johan and Murray, Richard M.},
+ title = {Feedback Systems: An Introduction for Scientists and Engineers},
+ year = {2008},
+ isbn = {9780691135762},
+ publisher = {Princeton University Press},
+ address = {Princeton, NJ, USA}
+} 
+
+@book{PID_theory_control_tuning,
+    author = {{AA}str{\"{o}}m, K. J. and H{\"{a}}gglund, T.},
+    citeulike-article-id = {8042411},
+    edition = {2},
+    keywords = {ifac\_safeprocess},
+    posted-at = {2010-10-18 12:11:18},
+    priority = {2},
+    publisher = {Instrument Society of America, Research Triangle Park, NC},
+    title = {{PID Controllers: Theory, Design, and Tuning}},
+    year = {1995}
+}
+
+@misc{REG,
+  author        = {Michel Etique},
+  title         = {Regulation automatique},
+  data          = {2005-10},
+  publisher={Faculdade de Engenharia da Universidade do Porto},
+  OPTlanguage = {French}
+}
+
+%%%% Electric vehicle %%%%%%%%
+
+@book{ModernEV,
+  title={Modern Electric, Hybrid Electric, and Fuel Cell Vehicles: Fundamentals, Theory, and Design},
+  author={Ehsani, M. and Gao, Y. and Gay, S.E. and Emadi, A.},
+  isbn={9781420037739},
+  series={Power Electronics and Applications Series},
+  url={http://ceb.ac.in/knowledge-center/E-BOOKS/Modern%20Electric,%20Hybrid%20Electric%20&%20Fuel%20Cell%20Vehicles%20-%20Mehrdad%20Ehsani.pdf},
+  urldate = {2018-07-24},
+  year={2004},
+  publisher={CRC Press}
+}
+
+@book{HVT,
+  title={Electric and hybrid vehicle Traction handbook},
+  author={Nils Hooftman and Cedric de Cauwer and Egi Nazeraj and Joris de Hoog and Tom Tucksin and Joeri van Mierlo},
+  year={2018},
+  publisher={VUB}
+}
+
+@Article{en8020921,
+AUTHOR = {Moreno-Torres, Pablo and Blanco, Marcos and Lafoz, Marcos and Arribas, Jaime R.},
+TITLE = {Educational Project for the Teaching of Control of Electric Traction Drives},
+JOURNAL = {Energies},
+VOLUME = {8},
+YEAR = {2015},
+NUMBER = {2},
+PAGES = {921--938},
+URL = {http://www.mdpi.com/1996-1073/8/2/921},
+ISSN = {1996-1073},
+ABSTRACT = {Electric vehicles constitute a multidisciplinary subject that involves  disciplines such as automotive, mechanical, electrical and control engineering. Due to  this multidisciplinary technical nature, practical teaching methodologies are of special relevance. Paradoxically, in the past, the training of engineers specializing in this area has lacked the practical component represented by field tests, due to the difficulty of accessing real systems. This paper presents an educational project specifically designed for the teaching and training of engineering students with different backgrounds and experience. The teaching methodology focuses on the topology of electric traction drives and their control. It includes two stages, a simulation computer model and a scaled laboratory workbench that comprises a traction electrical drive coupled to a vehicle emulator.  With this equipment, the effectiveness of different traction control strategies can be analyzed from the point of view of energy efficiency, robustness, easiness of implementation and acoustic noise.},
+DOI = {10.3390/en8020921}
+}
+
+%%%% REVA %%%%%%%%
+@manual{REVA_anal,
+    author    = "Jeunfai Lo, Lars Dedobbeleer and Jeroen Strijckers",
+    title     = "Case study: Diagnostic and Technical analysis of REVA EV Drivetrain",
+    year      = "2016",
+    publisher = "VUB",
+}
+
+@book{rajamani2011vehicle,
+  title={Vehicle Dynamics and Control},
+  author={Rajamani, R.},
+  isbn={9781461414339},
+  lccn={2011940692},
+  series={Mechanical Engineering Series},
+  year={2011},
+  publisher={Springer US}
+}
+
+
+@book{national_instrument_2009, title={CompactRIO Developers Guide}, author={National~Instrument}, url={http://www.mit.bme.hu/system/files/oktatas/targyak/7258/criodevgudfull.pdf}, urldate={2018-08-04}}
+
+@misc{Labview_wiki, title={LabVIEW}, url={https://fr.wikipedia.org/wiki/LabVIEW}, journal={Wikipedia}, publisher={Wikimedia Foundation}, urldate={2018-08-02}}
+
+@MastersThesis{RollerBenchThesis,
+    author     =     {Olivier Candeur},
+    title     =     {{Vehicle roller test bench development}},
+    school     =     {Vrij Universiteit van Brussel},
+    year     =     {2014}}
+    
+@Article{ControlForUnmandVic,
+AUTHOR = {Lai, Ying-Chih and Ting, Wen Ong},
+TITLE = {Design and Implementation of an Optimal Energy Control System for Fixed-Wing Unmanned Aerial Vehicles},
+JOURNAL = {Applied Sciences},
+VOLUME = {6},
+YEAR = {2016},
+NUMBER = {11},
+URL = {http://www.mdpi.com/2076-3417/6/11/369},
+ISSN = {2076-3417}
+}
+
+@book{eskandarian2012handbook,
+  title={Handbook of Intelligent Vehicles},
+  author={Eskandarian, A.},
+  isbn={9780857290847},
+  lccn={2011942207},
+  series={Handbook of Intelligent Vehicles},
+  year={2012},
+  publisher={Springer London}
+}
+
+@misc{researchgate, title={How to design perturbation signal for the identification of nonlinear system?}, url={https://www.researchgate.net/post/How_to_design_perturbation_signal_for_the_identification_of_nonlinear_system}, journal={ResearchGate}, urldate={2018-08-18}}
+
+@book{tangirala_2013, title={System Identification : lecture 2}, publisher={Department of Chemical Engineering IIT Madras}, author={Tangirala, Arun K.}, year={2013}, url={https://www.it.uu.se/edu/course/homepage/systemid/vt17/sysid_s2017_2.pdf}, urldate={2018-08-13}}
+
+@book{abdessemed2011modelisation,
+  title={Mod{\'e}lisation et simulation des machines {\'e}lectriques},
+  author={Abdessemed, R.},
+  isbn={9782729864958},
+  series={Technosup (Paris)},
+  year={2011},
+  publisher={Ellipses}
+}
+
+@book{giri2013ac,
+  title={AC Electric Motors Control: Advanced Design Techniques and Applications},
+  author={Giri, F.},
+  isbn={9781118574249},
+  lccn={2013008032},
+  year={2013},
+  publisher={Wiley}
+}
+
+@book{chan2011applied,
+  title={Applied Intelligent Control of Induction Motor Drives},
+  author={Chan, T.F. and Shi, K.},
+  isbn={9780470828281},
+  lccn={2010035690},
+  series={Wiley - IEEE},
+  year={2011},
+  publisher={Wiley}
+}
+
+@article{NvidiaBC,
+  author    = {Mariusz Bojarski and
+               Davide Del Testa and
+               Daniel Dworakowski and
+               Bernhard Firner and
+               Beat Flepp and
+               Prasoon Goyal and
+               Lawrence D. Jackel and
+               Mathew Monfort and
+               Urs Muller and
+               Jiakai Zhang and
+               Xin Zhang and
+               Jake Zhao and
+               Karol Zieba},
+  title     = {End to End Learning for Self-Driving Cars},
+  journal   = {CoRR},
+  volume    = {abs/1604.07316},
+  year      = {2016},
+  url       = {http://arxiv.org/abs/1604.07316},
+  archivePrefix = {arXiv},
+  eprint    = {1604.07316},
+  timestamp = {Wed, 07 Jun 2017 14:42:51 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/BojarskiTDFFGJM16},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@book{platt2014encyclopedia,
+  title={Encyclopedia of Electronic Components Volume 2: LEDs, LCDs, Audio, Thyristors, Digital Logic, and Amplification},
+  author={Platt, C. and Jansson, F.},
+  year={2014},
+  publisher={Maker Media, Incorporated}
+}
+
+
+@misc{Curtis_troubleshooting, title={Electrical Schematics and
+Documentation FOR CURTIS 1232-1238}, url={http://www.hpevs.com/Site/images/jpeg/Schematics/e-controllers/1232_38_e_controllers/530_and_up/auto1232_1238-532_E_Controller_revA_11-29-16.pdf}, journal={Hi Performance electric vehicle}}
+
+@manual{SuperB,
+author = {Super B},
+title = {User Manual SB12V160E-ZC Lithium Iron Phosphate battery},
+year = {2018},
+url = {http://www.britmarpower.com/wp-content/uploads/2013/10/Manual_SB12V160E-ZC_V2.pdf},
+urldate = {2018-08-17}
+}
+
+
+
+%%%%%%%%%%%%%%%%
+%%%%LIT REV
+
+@book{roland_berger, title={Autonomous driving}, author={Roland~Berger~Consultants}, year={2014}, url={https://www.rolandberger.com/publications/publication_pdf/roland_berger_tab_autonomous_driving.pdf}, urldate={2018-08-18}}
+
+@book{roland_berger_market, title={Automated Vehicles Index}, author={Roland~Berger~Consultants}, year={2017}, url={https://www.rolandberger.com/publications/publication_pdf/roland_berger_av_index_q4_2017_en.pdf}, urldate={2018-08-18}}
+
+@misc{rosenzweig_bartl, title={A Review and Analysis of Literature on Autonomous Driving}, url={http://www.michaelbartl.com/co-creation/wp-content/uploads/Lit-Review-AD_MoI.pdf}, publisher={THE MAKING-OF INNOVATION- E-Journal}, author={Rosenzweig, Juan and Bartl, Michael}, urldate={2018-08-18}}
+
+@article{MotionPlanSurvey,
+  author    = {Brian Paden and
+               Michal C{\'{a}}p and
+               Sze Zheng Yong and
+               Dmitry S. Yershov and
+               Emilio Frazzoli},
+  title     = {A Survey of Motion Planning and Control Techniques for Self-driving
+               Urban Vehicles},
+  journal   = {CoRR},
+  volume    = {abs/1604.07446},
+  year      = {2016},
+  url       = {http://arxiv.org/abs/1604.07446},
+  archivePrefix = {arXiv},
+  eprint    = {1604.07446},
+  timestamp = {Mon, 13 Aug 2018 16:49:15 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/PadenCYYF16},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{Modeling_Control_Strat,
+ author = {Amer, Noor Hafizah and Zamzuri, Hairi and Hudha, Khisbullah and Kadir, Zulkiffli Abdul},
+ title = {Modelling and Control Strategies in Path Tracking Control for Autonomous Ground Vehicles: A Review of State of the Art and Challenges},
+ journal = {J. Intell. Robotics Syst.},
+ volume = {86},
+ number = {2},
+ month = may,
+ year = {2017},
+ pages = {225--254},
+ numpages = {30},
+ publisher = {Kluwer Academic Publishers},
+ address = {Hingham, MA, USA}
+} 
+
+@book{liu2017creating,
+  title={Creating Autonomous Vehicle Systems},
+  author={Liu, S. and Li, L. and Tang, J. and Wu, S. and Gaudiot, J.L.},
+  isbn={9781681730080},
+  series={Synthesis Lectures on Computer Science},
+  year={2017},
+  publisher={Morgan \& Claypool Publishers}
+}
+
+@article{Computer_VisionForAV,
+  author    = {Joel Janai and
+               Fatma G{\"{u}}ney and
+               Aseem Behl and
+               Andreas Geiger},
+  title     = {Computer Vision for Autonomous Vehicles: Problems, Datasets and State-of-the-Art},
+  journal   = {CoRR},
+  volume    = {abs/1704.05519},
+  year      = {2017},
+  url       = {http://arxiv.org/abs/1704.05519},
+  archivePrefix = {arXiv},
+}
+
+@book{MIT_Driverless,
+ author = {Lipson, Hod and Kurman, Melba},
+ title = {Driverless: Intelligent Cars and the Road Ahead},
+ year = {2017},
+ publisher = {The MIT Press}
+} 
+
+@article{FAVARO2018136,
+title = "Autonomous vehicles’ disengagements: Trends, triggers, and regulatory limitations",
+journal = "Accident Analysis and Prevention",
+volume = "110",
+pages = "136 - 148",
+year = "2018",
+issn = "0001-4575",
+doi = "https://doi.org/10.1016/j.aap.2017.11.001",
+url = "http://www.sciencedirect.com/science/article/pii/S0001457517303822",
+author = "Francesca Favarò and Sky Eurich and Nazanin Nader",
+keywords = "Autonomous vehicles, Transportation safety, Autonomous technology disengagements"
+}
+
+@misc{Navigant_2018, title={Assessment of Strategy and Execution for 19 Companies Developing Automated Driving Systems}, year ={2018},url={https://www.navigantresearch.com/reports/navigant-research-leaderboard-automated-driving-vehicles}, publisher={Navigant Research Leaderboard}, urldate={2018-08-21}}
+
+@misc{Navigant_2017, title={Assessment of Strategy and Execution for 18 Companies Developing Automated Driving Systems},year={2017}, url={http://62.nl.dealer-preview.co/SiteAssets/LB-AV-17-Navigant-Research_FINAL.pdf}, publisher={Navigant Research Leaderboard}, urldate={2018-08-21}}
+
+@article{AV_prediction_,
+author = {Todd Litman},
+title = {Autonomous Vehicle Implementation Predictions Implications for Transport Planning},
+journaltitle = {Vectoria Transport Policy Institut},
+date = {2018-07-24},
+url = {https://www.vtpi.org/avip.pdf},
+urldate = {2018-08-21}
+}

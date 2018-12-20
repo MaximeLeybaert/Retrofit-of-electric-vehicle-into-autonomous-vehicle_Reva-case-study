@@ -1,0 +1,26 @@
+\begin{table}[htbp]
+\newcolumntype{Y}{>{\centering\arraybackslash}X}
+\begin{tabularx}{\textwidth}{ |Y|Y|Y|Y|Y|Y| }
+\hline
+Module Name & Functionality & sensors & location & output type\\
+\hline \hline \hline
+
+Lane detection \& classification & Where are the lines? (straight, curved, etc.) What do they look like (dotted, plain, right or left, etc.) & Camera, LiDAR & Front of the car, Road level, FOV should focus on the road width and high & Model of the lines, (car) relative position of the lines, classification of the lines \\
+\hline \hline
+
+On road signs detection \& classification & Recognize on road symbols (left, straight arrow,...) and text (direction, stop...) & Camera, LiDAR & same as above & relative position and classification  \\
+\hline \hline
+
+Drivelable area detection & Detect the road area where the car could drive & Camera, LiDAR & front (sure) back?, top level max FOV oriented at the road and above &  semantic structure with road label  \\
+\hline \hline
+
+Object detection \& Classification & Delimit the surface or volume occupied by an object (typically road user) and classify the object (pedestrian, car, truck, cyclist, etc.) & Camera, LiDAR & 360 degree FOV & Boxen raw data (this thing is occupying that area) and this thing is a (car, e.g.)\\
+\hline \hline
+
+Object Tracking & Track the object that are detected and classified & Camera, LiDAR, RADAR & 360 FOV &  A given motion state to each object (position, steady [y,n], direction, speed, (mostly a trajectory). \\
+
+\hline
+\end{tabularx}
+\caption{Perception functions related to their available sensor technonology}
+\label{table:function_sensors}
+\end{table}

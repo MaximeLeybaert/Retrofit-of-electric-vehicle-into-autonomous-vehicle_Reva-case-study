@@ -1,0 +1,42 @@
+\chapter{Computer vision : software development \label{chap:computer_vision}}
+As stated in chapter~\ref{chap:StateOfArt}, highly automated vehicle's key achievment is software development. In this chapter, a special focus on the environment and perception modeling is addressed. More specifically, this chapter delves few computer vision techniques used to achieved \textit{lane detection}, \textit{traffic sign classification}, \textit{vehicle detection and classification}, and \textit{behavioral cloning}. Each of those perception task is realized using one of the popular and simple programming language; Python. 
+
+This chapter is a personal summary of my enrollment in the Udacity Self Driving Cars nanodegree~\cite{Udacity} which I completed in parallel of this master thesis. Each computer vision technique problematic solution described here are my personal project course achievements. Even if the proposed code must be optimized, they have proven to work and might be useful to the \acs{vub} while building an autonomous REVA. 
+	\section{Lane detection}
+	\section{Traffic sign classifier}
+	\section{Vehicle detection}
+	\section{Behavioral cloning}
+In this case, behavioral cloning is the art of teaching a machine to act similarly to a human. \acf{cnn}, is a particular structure of \acf{nn} which have proven to be powerful at pattern recognition from images, and their usage have increased in environment perception. This project aim is to apply this deep learning technique to mimic the human driving behavior; using images from dashboard cameras, the \acs{cnn} is trained to predict the steering angle to be applied to the vehicle. This method have been successfully been applied on the real road condition by Nvidia~\cite{NvidiaBC}. Even such complex \acs{nn} requires carefulness about the training process, this method skips the environment perception problem decomposition which decrease the complexity of achieving automated vehicle. However, as general statement while using \acs{nn}, the prediction process acts as a black-box and it is merely impossible to access what is happening inside it, and therefore knowing the used feature to make the prediction. Knowing this, it this development level, the decomposition of environment prediction is preferred since it allows scoring the efficiency of the each sub-tasks which is impossible while applying \acs{cnn}. 
+
+For ease, Udacity provides a video-game like simulator which permits one to drive a vehicle around two virtual tracks while recording the steering angle and captures images from the dashboards cameras. It eases the process of data collection and validation, which would have been more complicated using a real vehicle on real road. Two tracks are available in the simulator, a simple one used to collect the data and validate the \acs{cnn} architecture, and secondly, a more challenging to validate network prediction generalizes well and extracts meaningful features. 
+
+Hence, the project objective is to develop a \acs{cnn} structure, which will be trained to correlates the dashboard images (vehicle state) to a steering angle. Using a \acs{pi} controller within the simulator and the car will move at a constant speed as a driver would regulate the speed. 
+
+The project can be decomposed in the following steps:
+\begin{itemize}
+\item[-] Use the simulator to collect data of good driving behavior 
+\item[-] Build a pipeline that preprocess the gathered data
+\item[-] Build, a convolution neural network in Keras which is capable to predicts steering angles from images 
+\item[-] Train and validate the model with a training and validation set 
+\item[-] Test that the model successfully drives around track one without leaving the road 
+\end{itemize}
+		\subsection{Data}
+			\subsubsection{Data collection}
+The dataset is generated while manually driving the car on the test
+track of the simulator. The software captures images from 3 different
+dashcameras, a center, left and right one as well as the steering angle once the recording button is pressed. All these measurements are saved in a specified directory and the file path of the images is related to the measured steering angle in a .csv file. 
+
+The procedure to collect the data consists of two steps : 
+\begin{itemize}
+\item[-] Driving the car smoothly for 3 laps clockwise and 3 laps counter clockwise. These data will teach the \acs{nn} to drive in the center part of the road. 
+\item[-] Perform recovery center driving for 2 laps clockwise and counter clockwise. This
+consists of getting closer to the lateral extremities of the track (while not recording) and then get back to the center lane while recording the measurement. Without the second step of data collection, in autonomous driving, the car is not trained to deal with critical situation where it gets closer and closer of a border lane. Instead of getting back on the center lane, it just steers normally and, worst case, get off the track.
+\end{itemize}
+
+The dataset is then loaded into a panda\footnote{Indeed, Panda is a powerful python library based on C programming language which is build to treat large amount of data. It has become popular while dealing with \acs{nn} which requires large datasets.} DataFrame in python which fits the need of fast data processing. This procedure provided a dataset of
+37000 raw samples. Moreover, I've tried to have the same amount of data for each case, thus
+when balancing the data each state of the car (recovery or driving in
+center) has the same probability to be fed into the Neural Network.
+Thinking of it, it might be more interesting to have more center driving
+data since it is the normal behavior of driving ; this way the wiggling
+I face may be limited.

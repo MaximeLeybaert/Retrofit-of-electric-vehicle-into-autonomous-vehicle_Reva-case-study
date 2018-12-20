@@ -1,0 +1,1730 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Towards_Robotic_Cars}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5112ea130eadef0764fce0145b8b9f91}{%
+           family={Thrun},
+           familyi={T\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{5112ea130eadef0764fce0145b8b9f91}
+      \strng{fullhash}{5112ea130eadef0764fce0145b8b9f91}
+      \strng{bibnamehash}{5112ea130eadef0764fce0145b8b9f91}
+      \strng{authorbibnamehash}{5112ea130eadef0764fce0145b8b9f91}
+      \strng{authornamehash}{5112ea130eadef0764fce0145b8b9f91}
+      \strng{authorfullhash}{5112ea130eadef0764fce0145b8b9f91}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0001-0782}
+      \field{journaltitle}{Commun. ACM}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{Toward Robotic Cars}
+      \field{volume}{53}
+      \field{year}{2010}
+      \field{pages}{99\bibrangedash 106}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1145/1721654.1721679
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.acm.org/10.1145/1721654.1721679
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/1721654.1721679
+      \endverb
+    \endentry
+    \entry{the_milwaukee_sentinel_1926}{article}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Milwaukee Sentinel}
+      \field{month}{12}
+      \field{title}{Phantom auto will tour the city}
+      \field{urlday}{17}
+      \field{urlmonth}{8}
+      \field{urlyear}{2018}
+      \field{year}{1926}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{4}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://news.google.com/newspapers?id=unBQAAAAIBAJ&sjid=QQ8EAAAAIBAJ&pg=7304,3766749
+      \endverb
+      \verb{url}
+      \verb https://news.google.com/newspapers?id=unBQAAAAIBAJ&sjid=QQ8EAAAAIBAJ&pg=7304,3766749
+      \endverb
+    \endentry
+    \entry{DAS_handbook}{book}{}
+      \name{author}{4}{}{%
+        {{hash=27e243e6b61961a9e2d0bd20486340a4}{%
+           family={Winner},
+           familyi={W\bibinitperiod},
+           given={Hermann},
+           giveni={H\bibinitperiod}}}%
+        {{hash=b66c9a9462de5ca7324402f6c975d52c}{%
+           family={Hakuli},
+           familyi={H\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=16a3b790d8812e0e00b16b4bdd788c89}{%
+           family={Lotz},
+           familyi={L\bibinitperiod},
+           given={Felix},
+           giveni={F\bibinitperiod}}}%
+        {{hash=ecc339b10578f594fb81f41824d0ecd2}{%
+           family={Singer},
+           familyi={S\bibinitperiod},
+           given={Christina},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Publishing Company, Incorporated}%
+      }
+      \strng{namehash}{694201a1b409345a698f7abac07268fd}
+      \strng{fullhash}{35ef09c6a3668c62cfc1bed9f3dc4d09}
+      \strng{bibnamehash}{35ef09c6a3668c62cfc1bed9f3dc4d09}
+      \strng{authorbibnamehash}{35ef09c6a3668c62cfc1bed9f3dc4d09}
+      \strng{authornamehash}{694201a1b409345a698f7abac07268fd}
+      \strng{authorfullhash}{35ef09c6a3668c62cfc1bed9f3dc4d09}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1st}
+      \field{isbn}{9783319123516}
+      \field{title}{Handbook of Driver Assistance Systems: Basic Information, Components and Systems for Active Safety and Comfort}
+      \field{year}{2015}
+    \endentry
+    \entry{SAE}{article}{}
+      \name{author}{7}{}{%
+        {{hash=2f277c94dd1457a0aa53ea271fe83839}{%
+           family={McCall},
+           familyi={M\bibinitperiod},
+           given={Rod},
+           giveni={R\bibinitperiod}}}%
+        {{hash=027b5e9ce072846e7b6c2b88305f726f}{%
+           family={McGee},
+           familyi={M\bibinitperiod},
+           given={Fintan},
+           giveni={F\bibinitperiod}}}%
+        {{hash=18663d389806cad89f29a9e74be5aaef}{%
+           family={Mirnig},
+           familyi={M\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6352c2c77b668fcc5cf1f9afef619971}{%
+           family={Meschtscherjakov},
+           familyi={M\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8d210dcbfdde86e0358ee486d31bab84}{%
+           family={Louveton},
+           familyi={L\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=36282e29e42fcc162832ff91eb9a945d}{%
+           family={Engel},
+           familyi={E\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=9d04cbd42ed09035ecade34520a9a040}{%
+           family={Tscheligi},
+           familyi={T\bibinitperiod},
+           given={Manfred},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{5cd27b9b751d3da82569a33a5c340516}
+      \strng{fullhash}{48410b4e04f62efe1003f6a89cf55907}
+      \strng{bibnamehash}{48410b4e04f62efe1003f6a89cf55907}
+      \strng{authorbibnamehash}{48410b4e04f62efe1003f6a89cf55907}
+      \strng{authornamehash}{5cd27b9b751d3da82569a33a5c340516}
+      \strng{authorfullhash}{48410b4e04f62efe1003f6a89cf55907}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0965-8564}
+      \field{journaltitle}{Transportation Research Part A: Policy and Practice}
+      \field{title}{A taxonomy of autonomous vehicle handover situations}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S0965856417311072
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0965856417311072
+      \endverb
+      \keyw{Autonomous vehicles,Control transitions,Handover,Legal consequences,Taxonomy,Situational awareness}
+    \endentry
+    \entry{herrmann2018autonomous}{book}{}
+      \name{author}{3}{}{%
+        {{hash=9821a9049d3b66ac5a54997be5755d73}{%
+           family={Herrmann},
+           familyi={H\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c1add966e7f10f28861fb8cf193f0df5}{%
+           family={Brenner},
+           familyi={B\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=27d1cb9435f68b54212e33f3a736c799}{%
+           family={Stadler},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Emerald Publishing Limited}%
+      }
+      \strng{namehash}{b56d77cdcef4f808a8b9615b24de1902}
+      \strng{fullhash}{b56d77cdcef4f808a8b9615b24de1902}
+      \strng{bibnamehash}{b56d77cdcef4f808a8b9615b24de1902}
+      \strng{authorbibnamehash}{b56d77cdcef4f808a8b9615b24de1902}
+      \strng{authornamehash}{b56d77cdcef4f808a8b9615b24de1902}
+      \strng{authorfullhash}{b56d77cdcef4f808a8b9615b24de1902}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781787148338}
+      \field{title}{Autonomous Driving: How the Driverless Revolution will Change the World}
+      \field{year}{2018}
+    \endentry
+    \entry{Navigant_2017}{misc}{}
+      \list{publisher}{1}{%
+        {Navigant Research Leaderboard}%
+      }
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labeltitlesource}{title}
+      \field{title}{Assessment of Strategy and Execution for 18 Companies Developing Automated Driving Systems}
+      \field{urlday}{21}
+      \field{urlmonth}{8}
+      \field{urlyear}{2018}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://62.nl.dealer-preview.co/SiteAssets/LB-AV-17-Navigant-Research_FINAL.pdf
+      \endverb
+      \verb{url}
+      \verb http://62.nl.dealer-preview.co/SiteAssets/LB-AV-17-Navigant-Research_FINAL.pdf
+      \endverb
+    \endentry
+    \entry{Navigant_2018}{misc}{}
+      \list{publisher}{1}{%
+        {Navigant Research Leaderboard}%
+      }
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labeltitlesource}{title}
+      \field{title}{Assessment of Strategy and Execution for 19 Companies Developing Automated Driving Systems}
+      \field{urlday}{21}
+      \field{urlmonth}{8}
+      \field{urlyear}{2018}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.navigantresearch.com/reports/navigant-research-leaderboard-automated-driving-vehicles
+      \endverb
+      \verb{url}
+      \verb https://www.navigantresearch.com/reports/navigant-research-leaderboard-automated-driving-vehicles
+      \endverb
+    \endentry
+    \entry{FAVARO2018136}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a452e055bacefd5bae9b51986b191038}{%
+           family={Favarò},
+           familyi={F\bibinitperiod},
+           given={Francesca},
+           giveni={F\bibinitperiod}}}%
+        {{hash=27a191ca63b7cc872fe23781ae1ab7d0}{%
+           family={Eurich},
+           familyi={E\bibinitperiod},
+           given={Sky},
+           giveni={S\bibinitperiod}}}%
+        {{hash=485893a52105a32f398e2c602c3289f9}{%
+           family={Nader},
+           familyi={N\bibinitperiod},
+           given={Nazanin},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{575bf565fa653bcff374456638cb5fdb}
+      \strng{fullhash}{575bf565fa653bcff374456638cb5fdb}
+      \strng{bibnamehash}{575bf565fa653bcff374456638cb5fdb}
+      \strng{authorbibnamehash}{575bf565fa653bcff374456638cb5fdb}
+      \strng{authornamehash}{575bf565fa653bcff374456638cb5fdb}
+      \strng{authorfullhash}{575bf565fa653bcff374456638cb5fdb}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0001-4575}
+      \field{journaltitle}{Accident Analysis and Prevention}
+      \field{title}{Autonomous vehicles’ disengagements: Trends, triggers, and regulatory limitations}
+      \field{volume}{110}
+      \field{year}{2018}
+      \field{pages}{136\bibrangedash 148}
+      \range{pages}{13}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.aap.2017.11.001
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S0001457517303822
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0001457517303822
+      \endverb
+      \keyw{Autonomous vehicles,Transportation safety,Autonomous technology disengagements}
+    \endentry
+    \entry{PrepaNation4AV}{article}{}
+      \name{author}{2}{}{%
+        {{hash=37053bad78b5febed344b53db58735eb}{%
+           family={Fagnant},
+           familyi={F\bibinitperiod},
+           given={Daniel\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=6e4f2d2e0b0d8f149e3e81a4795c9313}{%
+           family={Kockelman},
+           familyi={K\bibinitperiod},
+           given={Kara},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{1b86624da6b16db1e314406222b53537}
+      \strng{fullhash}{1b86624da6b16db1e314406222b53537}
+      \strng{bibnamehash}{1b86624da6b16db1e314406222b53537}
+      \strng{authorbibnamehash}{1b86624da6b16db1e314406222b53537}
+      \strng{authornamehash}{1b86624da6b16db1e314406222b53537}
+      \strng{authorfullhash}{1b86624da6b16db1e314406222b53537}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Transportation Research Part A: Policy and Practice}
+      \field{number}{C}
+      \field{title}{Preparing a nation for autonomous vehicles: opportunities, barriers and policy recommendations}
+      \field{volume}{77}
+      \field{year}{2015}
+      \field{pages}{167\bibrangedash 181}
+      \range{pages}{15}
+      \keyw{Vehicle automation; Autonomous vehicles; Cost-benefit analysis; Safety; Congestion; Market penetration;}
+    \endentry
+    \entry{AV_prediction_}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f5faa4bc3e73a7be2794705dd2254e00}{%
+           family={Litman},
+           familyi={L\bibinitperiod},
+           given={Todd},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{f5faa4bc3e73a7be2794705dd2254e00}
+      \strng{fullhash}{f5faa4bc3e73a7be2794705dd2254e00}
+      \strng{bibnamehash}{f5faa4bc3e73a7be2794705dd2254e00}
+      \strng{authorbibnamehash}{f5faa4bc3e73a7be2794705dd2254e00}
+      \strng{authornamehash}{f5faa4bc3e73a7be2794705dd2254e00}
+      \strng{authorfullhash}{f5faa4bc3e73a7be2794705dd2254e00}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{24}
+      \field{journaltitle}{Vectoria Transport Policy Institut}
+      \field{month}{7}
+      \field{title}{Autonomous Vehicle Implementation Predictions Implications for Transport Planning}
+      \field{urlday}{21}
+      \field{urlmonth}{8}
+      \field{urlyear}{2018}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.vtpi.org/avip.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.vtpi.org/avip.pdf
+      \endverb
+    \endentry
+    \entry{waymo_safety_report}{book}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Waymo}
+      \field{title}{Waymo Safety Report : On the Road to Fully Self-Driving}
+      \field{urlday}{15}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://storage.googleapis.com/sdc-prod/v1/safety-report/Safety Report 2018.pdf
+      \endverb
+      \verb{url}
+      \verb https://storage.googleapis.com/sdc-prod/v1/safety-report/Safety%20Report%202018.pdf
+      \endverb
+    \endentry
+    \entry{Hong_Cheng}{book}{}
+      \name{author}{1}{}{%
+        {{hash=7f716c207f29a9f09b9764f354497a91}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Hong},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Publishing Company, Incorporated}%
+      }
+      \strng{namehash}{7f716c207f29a9f09b9764f354497a91}
+      \strng{fullhash}{7f716c207f29a9f09b9764f354497a91}
+      \strng{bibnamehash}{7f716c207f29a9f09b9764f354497a91}
+      \strng{authorbibnamehash}{7f716c207f29a9f09b9764f354497a91}
+      \strng{authornamehash}{7f716c207f29a9f09b9764f354497a91}
+      \strng{authorfullhash}{7f716c207f29a9f09b9764f354497a91}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Autonomous Intelligent Vehicles : Theory, Algorithms, and Implementation}
+      \field{year}{2011}
+    \endentry
+    \entry{Hella_slides}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=2c690f559622e06f12cfaf85ab1df0f6}{%
+           family={Dammeier},
+           familyi={D\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Hella Aglaia}%
+      }
+      \strng{namehash}{2c690f559622e06f12cfaf85ab1df0f6}
+      \strng{fullhash}{2c690f559622e06f12cfaf85ab1df0f6}
+      \strng{bibnamehash}{2c690f559622e06f12cfaf85ab1df0f6}
+      \strng{authorbibnamehash}{2c690f559622e06f12cfaf85ab1df0f6}
+      \strng{authornamehash}{2c690f559622e06f12cfaf85ab1df0f6}
+      \strng{authorfullhash}{2c690f559622e06f12cfaf85ab1df0f6}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Requirements for functional architectures and interfaces in centralized multi-sensor systems for automated driving}
+      \field{year}{2017}
+    \endentry
+    \entry{wendt_2018}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ccfb4ee907f008a1775e278e624d924f}{%
+           family={Wendt},
+           familyi={W\bibinitperiod},
+           given={Zach},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{ccfb4ee907f008a1775e278e624d924f}
+      \strng{fullhash}{ccfb4ee907f008a1775e278e624d924f}
+      \strng{bibnamehash}{ccfb4ee907f008a1775e278e624d924f}
+      \strng{authorbibnamehash}{ccfb4ee907f008a1775e278e624d924f}
+      \strng{authornamehash}{ccfb4ee907f008a1775e278e624d924f}
+      \strng{authorfullhash}{ccfb4ee907f008a1775e278e624d924f}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Machine Design}
+      \field{title}{Saved by the Sensor: Vehicle Awareness in the Self-Driving Age}
+      \field{urlday}{8}
+      \field{urlmonth}{5}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://goo.gl/bhYh8K
+      \endverb
+      \verb{url}
+      \verb https://goo.gl/bhYh8K
+      \endverb
+    \endentry
+    \entry{fridman_2}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bb1e626448881c165113433ac91036b9}{%
+           family={Fridman},
+           familyi={F\bibinitperiod},
+           given={Lex},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MIT}%
+      }
+      \strng{namehash}{bb1e626448881c165113433ac91036b9}
+      \strng{fullhash}{bb1e626448881c165113433ac91036b9}
+      \strng{bibnamehash}{bb1e626448881c165113433ac91036b9}
+      \strng{authorbibnamehash}{bb1e626448881c165113433ac91036b9}
+      \strng{authornamehash}{bb1e626448881c165113433ac91036b9}
+      \strng{authorfullhash}{bb1e626448881c165113433ac91036b9}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Deep Learning for Self-Driving Cars}
+      \field{title}{MIT 6.S094: Deep Learning for Self-Driving Cars}
+      \field{urlday}{29}
+      \field{urlmonth}{8}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://selfdrivingcars.mit.edu/
+      \endverb
+      \verb{url}
+      \verb https://selfdrivingcars.mit.edu/
+      \endverb
+    \endentry
+    \entry{rosenzweig_bartl}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=9b966184b094457a79c847c26487284f}{%
+           family={Rosenzweig},
+           familyi={R\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e417266aa224d61bdce41ac833655e66}{%
+           family={Bartl},
+           familyi={B\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {THE MAKING-OF INNOVATION- E-Journal}%
+      }
+      \strng{namehash}{1bcebcca76f6de699946826f7edf7e81}
+      \strng{fullhash}{1bcebcca76f6de699946826f7edf7e81}
+      \strng{bibnamehash}{1bcebcca76f6de699946826f7edf7e81}
+      \strng{authorbibnamehash}{1bcebcca76f6de699946826f7edf7e81}
+      \strng{authornamehash}{1bcebcca76f6de699946826f7edf7e81}
+      \strng{authorfullhash}{1bcebcca76f6de699946826f7edf7e81}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Review and Analysis of Literature on Autonomous Driving}
+      \field{urlday}{18}
+      \field{urlmonth}{8}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.michaelbartl.com/co-creation/wp-content/uploads/Lit-Review-AD_MoI.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.michaelbartl.com/co-creation/wp-content/uploads/Lit-Review-AD_MoI.pdf
+      \endverb
+    \endentry
+    \entry{McGrath_AVOSD}{book}{}
+      \name{author}{1}{}{%
+        {{hash=89272a3059ad68bb317dde4c0e392ca9}{%
+           family={MacGrath},
+           familyi={M\bibinitperiod},
+           given={M.E.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Michael E. McGrath}%
+      }
+      \strng{namehash}{89272a3059ad68bb317dde4c0e392ca9}
+      \strng{fullhash}{89272a3059ad68bb317dde4c0e392ca9}
+      \strng{bibnamehash}{89272a3059ad68bb317dde4c0e392ca9}
+      \strng{authorbibnamehash}{89272a3059ad68bb317dde4c0e392ca9}
+      \strng{authornamehash}{89272a3059ad68bb317dde4c0e392ca9}
+      \strng{authorfullhash}{89272a3059ad68bb317dde4c0e392ca9}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781980313854}
+      \field{title}{Autonomous Vehicles: Opportunities, Strategies, and Disruptions}
+      \field{year}{2018}
+    \endentry
+    \entry{roland_berger}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4d39f63e5193e89ce2424424ac82d1d6}{%
+           family={Roland\bibnamedelima Berger\bibnamedelima Consultants},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{4d39f63e5193e89ce2424424ac82d1d6}
+      \strng{fullhash}{4d39f63e5193e89ce2424424ac82d1d6}
+      \strng{bibnamehash}{4d39f63e5193e89ce2424424ac82d1d6}
+      \strng{authorbibnamehash}{4d39f63e5193e89ce2424424ac82d1d6}
+      \strng{authornamehash}{4d39f63e5193e89ce2424424ac82d1d6}
+      \strng{authorfullhash}{4d39f63e5193e89ce2424424ac82d1d6}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Autonomous driving}
+      \field{urlday}{18}
+      \field{urlmonth}{8}
+      \field{urlyear}{2018}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.rolandberger.com/publications/publication_pdf/roland_berger_tab_autonomous_driving.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.rolandberger.com/publications/publication_pdf/roland_berger_tab_autonomous_driving.pdf
+      \endverb
+    \endentry
+    \entry{MIT_Driverless}{book}{}
+      \name{author}{2}{}{%
+        {{hash=475bdf26aafc86ddd3f62a8ff9267f8a}{%
+           family={Lipson},
+           familyi={L\bibinitperiod},
+           given={Hod},
+           giveni={H\bibinitperiod}}}%
+        {{hash=5b2e2038c7991254520bd632c3606ab7}{%
+           family={Kurman},
+           familyi={K\bibinitperiod},
+           given={Melba},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{79681c518704188d2a920582e8f57ac2}
+      \strng{fullhash}{79681c518704188d2a920582e8f57ac2}
+      \strng{bibnamehash}{79681c518704188d2a920582e8f57ac2}
+      \strng{authorbibnamehash}{79681c518704188d2a920582e8f57ac2}
+      \strng{authornamehash}{79681c518704188d2a920582e8f57ac2}
+      \strng{authorfullhash}{79681c518704188d2a920582e8f57ac2}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Driverless: Intelligent Cars and the Road Ahead}
+      \field{year}{2017}
+    \endentry
+    \entry{liu2017creating}{book}{}
+      \name{author}{5}{}{%
+        {{hash=b6b24eba2cb29d4dceae106a2fb4a6ec}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9c826062f026ddcb561818c9e2a87333}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=cc8cdc0448e0c12e6f2270f22931f690}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ff508c463efe123882971873631fe541}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=bf693f32552b502366aa66f0154616cc}{%
+           family={Gaudiot},
+           familyi={G\bibinitperiod},
+           given={J.L.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Morgan \& Claypool Publishers}%
+      }
+      \strng{namehash}{8cee71756acdeb88474d216f4fe72173}
+      \strng{fullhash}{4fa355f7b28735ae15533c177b36b809}
+      \strng{bibnamehash}{4fa355f7b28735ae15533c177b36b809}
+      \strng{authorbibnamehash}{4fa355f7b28735ae15533c177b36b809}
+      \strng{authornamehash}{8cee71756acdeb88474d216f4fe72173}
+      \strng{authorfullhash}{4fa355f7b28735ae15533c177b36b809}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781681730080}
+      \field{series}{Synthesis Lectures on Computer Science}
+      \field{title}{Creating Autonomous Vehicle Systems}
+      \field{year}{2017}
+    \endentry
+    \entry{Siegwart}{book}{}
+      \name{author}{2}{}{%
+        {{hash=6ee8958bbf32527489012d8ca7c95ee3}{%
+           family={Siegwart},
+           familyi={S\bibinitperiod},
+           given={Roland},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8449205a95ce95dff8279c29317524e2}{%
+           family={Nourbakhsh},
+           familyi={N\bibinitperiod},
+           given={Illah\bibnamedelima R.},
+           giveni={I\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Scituate, MA, USA}%
+      }
+      \list{publisher}{1}{%
+        {Bradford Company}%
+      }
+      \strng{namehash}{ea210e2c2553c3d3f48629b00d5f3cc8}
+      \strng{fullhash}{ea210e2c2553c3d3f48629b00d5f3cc8}
+      \strng{bibnamehash}{ea210e2c2553c3d3f48629b00d5f3cc8}
+      \strng{authorbibnamehash}{ea210e2c2553c3d3f48629b00d5f3cc8}
+      \strng{authornamehash}{ea210e2c2553c3d3f48629b00d5f3cc8}
+      \strng{authorfullhash}{ea210e2c2553c3d3f48629b00d5f3cc8}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{026219502X}
+      \field{title}{Introduction to Autonomous Mobile Robots}
+      \field{year}{2004}
+    \endentry
+    \entry{Computer_VisionForAV}{article}{}
+      \name{author}{4}{}{%
+        {{hash=b96d9417640a350472979bd2b74fbb13}{%
+           family={Janai},
+           familyi={J\bibinitperiod},
+           given={Joel},
+           giveni={J\bibinitperiod}}}%
+        {{hash=dc62347ed87f9bb3551f06efc5874373}{%
+           family={G{ü}ney},
+           familyi={G\bibinitperiod},
+           given={Fatma},
+           giveni={F\bibinitperiod}}}%
+        {{hash=f603f116baa81afb8ad402c9c84b1cc1}{%
+           family={Behl},
+           familyi={B\bibinitperiod},
+           given={Aseem},
+           giveni={A\bibinitperiod}}}%
+        {{hash=06133052ac3c14a188601b82783cd4f7}{%
+           family={Geiger},
+           familyi={G\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{070b9cb7a7631e6055e46273fb0c41db}
+      \strng{fullhash}{496069ac90b8cff9d4fc553d5de6134b}
+      \strng{bibnamehash}{496069ac90b8cff9d4fc553d5de6134b}
+      \strng{authorbibnamehash}{496069ac90b8cff9d4fc553d5de6134b}
+      \strng{authornamehash}{070b9cb7a7631e6055e46273fb0c41db}
+      \strng{authorfullhash}{496069ac90b8cff9d4fc553d5de6134b}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{CoRR}
+      \field{title}{Computer Vision for Autonomous Vehicles: Problems, Datasets and State-of-the-Art}
+      \field{volume}{abs/1704.05519}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1704.05519
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1704.05519
+      \endverb
+    \endentry
+    \entry{MotionPlanSurvey}{article}{}
+      \name{author}{5}{}{%
+        {{hash=d71014853b79d4b130e9e5ce26cbd1f0}{%
+           family={Paden},
+           familyi={P\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod}}}%
+        {{hash=a376ab76039bf187529aa7f3679f9dc5}{%
+           family={C{á}p},
+           familyi={C\bibinitperiod},
+           given={Michal},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a8cea5660af726c4ab09de9748d559d4}{%
+           family={Yong},
+           familyi={Y\bibinitperiod},
+           given={Sze\bibnamedelima Zheng},
+           giveni={S\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=c1abd46a7d2dbdbc9512ddc21cd8e36f}{%
+           family={Yershov},
+           familyi={Y\bibinitperiod},
+           given={Dmitry\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=7fe896e8ed8d5f30af73e472ebedcec9}{%
+           family={Frazzoli},
+           familyi={F\bibinitperiod},
+           given={Emilio},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{bee0fc007e1e347830cfc9d39b032c15}
+      \strng{fullhash}{c04315f7832145f603af3bdeb7a19a24}
+      \strng{bibnamehash}{c04315f7832145f603af3bdeb7a19a24}
+      \strng{authorbibnamehash}{c04315f7832145f603af3bdeb7a19a24}
+      \strng{authornamehash}{bee0fc007e1e347830cfc9d39b032c15}
+      \strng{authorfullhash}{c04315f7832145f603af3bdeb7a19a24}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{CoRR}
+      \field{title}{A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles}
+      \field{volume}{abs/1604.07446}
+      \field{year}{2016}
+      \verb{eprint}
+      \verb 1604.07446
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1604.07446
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1604.07446
+      \endverb
+    \endentry
+    \entry{Modeling_Control_Strat}{article}{}
+      \name{author}{4}{}{%
+        {{hash=6b4eac2d2f895cc137733e79760d0932}{%
+           family={Amer},
+           familyi={A\bibinitperiod},
+           given={Noor\bibnamedelima Hafizah},
+           giveni={N\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=7493020de7d1984917cb88cd88615905}{%
+           family={Zamzuri},
+           familyi={Z\bibinitperiod},
+           given={Hairi},
+           giveni={H\bibinitperiod}}}%
+        {{hash=8880bb6af211c110908ad4e30c71af72}{%
+           family={Hudha},
+           familyi={H\bibinitperiod},
+           given={Khisbullah},
+           giveni={K\bibinitperiod}}}%
+        {{hash=75333deb8da6c5f57f19168ff4412fd8}{%
+           family={Kadir},
+           familyi={K\bibinitperiod},
+           given={Zulkiffli\bibnamedelima Abdul},
+           giveni={Z\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Hingham, MA, USA}%
+      }
+      \list{publisher}{1}{%
+        {Kluwer Academic Publishers}%
+      }
+      \strng{namehash}{3dfabfc7b4daf14062f37b89b4b9cd62}
+      \strng{fullhash}{ac9b46b0dd12b1c4581efa0e71df3299}
+      \strng{bibnamehash}{ac9b46b0dd12b1c4581efa0e71df3299}
+      \strng{authorbibnamehash}{ac9b46b0dd12b1c4581efa0e71df3299}
+      \strng{authornamehash}{3dfabfc7b4daf14062f37b89b4b9cd62}
+      \strng{authorfullhash}{ac9b46b0dd12b1c4581efa0e71df3299}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Intell. Robotics Syst.}
+      \field{month}{5}
+      \field{number}{2}
+      \field{title}{Modelling and Control Strategies in Path Tracking Control for Autonomous Ground Vehicles: A Review of State of the Art and Challenges}
+      \field{volume}{86}
+      \field{year}{2017}
+      \field{pages}{225\bibrangedash 254}
+      \range{pages}{30}
+    \endentry
+    \entry{Udacity}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=e5742918ccc601d1624882335fdbf22d}{%
+           family={Udacity},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Udacity}%
+      }
+      \strng{namehash}{e5742918ccc601d1624882335fdbf22d}
+      \strng{fullhash}{e5742918ccc601d1624882335fdbf22d}
+      \strng{bibnamehash}{e5742918ccc601d1624882335fdbf22d}
+      \strng{authorbibnamehash}{e5742918ccc601d1624882335fdbf22d}
+      \strng{authornamehash}{e5742918ccc601d1624882335fdbf22d}
+      \strng{authorfullhash}{e5742918ccc601d1624882335fdbf22d}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Online lectures}
+      \field{title}{Self Driving Car Nanodegree program : Computer vision}
+      \field{urlday}{17}
+      \field{urlmonth}{8}
+      \field{urlyear}{2018}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eu.udacity.com/course/self-driving-car-engineer-nanodegree--nd013
+      \endverb
+      \verb{url}
+      \verb https://eu.udacity.com/course/self-driving-car-engineer-nanodegree--nd013
+      \endverb
+    \endentry
+    \entry{HVT}{book}{}
+      \name{author}{6}{}{%
+        {{hash=2c6080b5b178fc3e938b2201b553a016}{%
+           family={Hooftman},
+           familyi={H\bibinitperiod},
+           given={Nils},
+           giveni={N\bibinitperiod}}}%
+        {{hash=2c73fd23413423d714916fda445a01dd}{%
+           family={Cauwer},
+           familyi={C\bibinitperiod},
+           given={Cedric},
+           giveni={C\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=97fde1fc529489945a825ecc219af9af}{%
+           family={Nazeraj},
+           familyi={N\bibinitperiod},
+           given={Egi},
+           giveni={E\bibinitperiod}}}%
+        {{hash=749b33d03225c8cf864bb5cbaf31dbb3}{%
+           family={Hoog},
+           familyi={H\bibinitperiod},
+           given={Joris},
+           giveni={J\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=f113e4fba477fcb21f1fffa543cf1cfb}{%
+           family={Tucksin},
+           familyi={T\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+        {{hash=ab299fd84a32694464f3906f194b6f2f}{%
+           family={Mierlo},
+           familyi={M\bibinitperiod},
+           given={Joeri},
+           giveni={J\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {VUB}%
+      }
+      \strng{namehash}{6d44399c11419a0e29946d3daab0efc3}
+      \strng{fullhash}{393dc340bbf450000ac9a2d5f3ff46c0}
+      \strng{bibnamehash}{393dc340bbf450000ac9a2d5f3ff46c0}
+      \strng{authorbibnamehash}{393dc340bbf450000ac9a2d5f3ff46c0}
+      \strng{authornamehash}{6d44399c11419a0e29946d3daab0efc3}
+      \strng{authorfullhash}{393dc340bbf450000ac9a2d5f3ff46c0}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Electric and hybrid vehicle Traction handbook}
+      \field{year}{2018}
+    \endentry
+    \entry{ModernEV}{book}{}
+      \name{author}{4}{}{%
+        {{hash=4dbec456093d5449f2735153c2c3a7ba}{%
+           family={Ehsani},
+           familyi={E\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f136651a1ce931f7c0a68ece10f75bdb}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=fbd4c1829a5c0db9de4d8898dd270790}{%
+           family={Gay},
+           familyi={G\bibinitperiod},
+           given={S.E.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=78695c8df1fca155fa1f624da5774564}{%
+           family={Emadi},
+           familyi={E\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{fd1aa8c8dccb8c32288cb5e28863c8fe}
+      \strng{fullhash}{2ba8a4acca4b4647f2b4e1d952c7517d}
+      \strng{bibnamehash}{2ba8a4acca4b4647f2b4e1d952c7517d}
+      \strng{authorbibnamehash}{2ba8a4acca4b4647f2b4e1d952c7517d}
+      \strng{authornamehash}{fd1aa8c8dccb8c32288cb5e28863c8fe}
+      \strng{authorfullhash}{2ba8a4acca4b4647f2b4e1d952c7517d}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781420037739}
+      \field{series}{Power Electronics and Applications Series}
+      \field{title}{Modern Electric, Hybrid Electric, and Fuel Cell Vehicles: Fundamentals, Theory, and Design}
+      \field{urlday}{24}
+      \field{urlmonth}{7}
+      \field{urlyear}{2018}
+      \field{year}{2004}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://ceb.ac.in/knowledge-center/E-BOOKS/Modern%20Electric,%20Hybrid%20Electric%20&%20Fuel%20Cell%20Vehicles%20-%20Mehrdad%20Ehsani.pdf
+      \endverb
+      \verb{url}
+      \verb http://ceb.ac.in/knowledge-center/E-BOOKS/Modern%20Electric,%20Hybrid%20Electric%20&%20Fuel%20Cell%20Vehicles%20-%20Mehrdad%20Ehsani.pdf
+      \endverb
+    \endentry
+    \entry{en8020921}{article}{}
+      \name{author}{4}{}{%
+        {{hash=88b247cdf102dbdb2799914916b98d1a}{%
+           family={Moreno-Torres},
+           familyi={M\bibinithyphendelim T\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a91a336611daeb0a8a8e5bb11d6c74c9}{%
+           family={Blanco},
+           familyi={B\bibinitperiod},
+           given={Marcos},
+           giveni={M\bibinitperiod}}}%
+        {{hash=aaaad3540b78c221e8db1a12e4a1c2c6}{%
+           family={Lafoz},
+           familyi={L\bibinitperiod},
+           given={Marcos},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e967c326155e9f740cb3d2e3fd700dba}{%
+           family={Arribas},
+           familyi={A\bibinitperiod},
+           given={Jaime\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8341d40932d3e7fac21d2aa7c0755c4}
+      \strng{fullhash}{d570b5d81f7be633a3594946af7e148c}
+      \strng{bibnamehash}{d570b5d81f7be633a3594946af7e148c}
+      \strng{authorbibnamehash}{d570b5d81f7be633a3594946af7e148c}
+      \strng{authornamehash}{a8341d40932d3e7fac21d2aa7c0755c4}
+      \strng{authorfullhash}{d570b5d81f7be633a3594946af7e148c}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Electric vehicles constitute a multidisciplinary subject that involves disciplines such as automotive, mechanical, electrical and control engineering. Due to this multidisciplinary technical nature, practical teaching methodologies are of special relevance. Paradoxically, in the past, the training of engineers specializing in this area has lacked the practical component represented by field tests, due to the difficulty of accessing real systems. This paper presents an educational project specifically designed for the teaching and training of engineering students with different backgrounds and experience. The teaching methodology focuses on the topology of electric traction drives and their control. It includes two stages, a simulation computer model and a scaled laboratory workbench that comprises a traction electrical drive coupled to a vehicle emulator. With this equipment, the effectiveness of different traction control strategies can be analyzed from the point of view of energy efficiency, robustness, easiness of implementation and acoustic noise.}
+      \field{issn}{1996-1073}
+      \field{journaltitle}{Energies}
+      \field{number}{2}
+      \field{title}{Educational Project for the Teaching of Control of Electric Traction Drives}
+      \field{volume}{8}
+      \field{year}{2015}
+      \field{pages}{921\bibrangedash 938}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.3390/en8020921
+      \endverb
+      \verb{urlraw}
+      \verb http://www.mdpi.com/1996-1073/8/2/921
+      \endverb
+      \verb{url}
+      \verb http://www.mdpi.com/1996-1073/8/2/921
+      \endverb
+    \endentry
+    \entry{ElectricDriveEV}{article}{}
+      \name{author}{3}{}{%
+        {{hash=3f2f88c6d17b9caf7c8daf637b818023}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Qi},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=2bb35bf59aaca26e59bbdb0d0192f3b3}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7608dbf6c54dadf166f77046db3c64a6}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yong},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{f2ac9f2445f72f9c9b5aa31c65ba98d8}
+      \strng{fullhash}{f2ac9f2445f72f9c9b5aa31c65ba98d8}
+      \strng{bibnamehash}{f2ac9f2445f72f9c9b5aa31c65ba98d8}
+      \strng{authorbibnamehash}{f2ac9f2445f72f9c9b5aa31c65ba98d8}
+      \strng{authornamehash}{f2ac9f2445f72f9c9b5aa31c65ba98d8}
+      \strng{authorfullhash}{f2ac9f2445f72f9c9b5aa31c65ba98d8}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{University of Electronic Science and Technology of China}
+      \field{title}{Control of Electric Vehicle}
+    \endentry
+    \entry{SurveyMotor}{article}{}
+      \name{author}{3}{}{%
+        {{hash=cfdf6b0fb8ae6466089a401379fd026f}{%
+           family={Yildirim},
+           familyi={Y\bibinitperiod},
+           given={Merve},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a310bc3ff2daf7b41b9e0a394d889cb3}{%
+           family={Polat},
+           familyi={P\bibinitperiod},
+           given={Mehmet},
+           giveni={M\bibinitperiod}}}%
+        {{hash=242e2ba67fa272d10a2315389e59b6db}{%
+           family={Kurum},
+           familyi={K\bibinitperiod},
+           given={Hasan},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{517cfbcd1d181bf256cf30c97c27b4ea}
+      \strng{fullhash}{517cfbcd1d181bf256cf30c97c27b4ea}
+      \strng{bibnamehash}{517cfbcd1d181bf256cf30c97c27b4ea}
+      \strng{authorbibnamehash}{517cfbcd1d181bf256cf30c97c27b4ea}
+      \strng{authornamehash}{517cfbcd1d181bf256cf30c97c27b4ea}
+      \strng{authorfullhash}{517cfbcd1d181bf256cf30c97c27b4ea}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2014 16th International Power Electronics and Motion Control Conference and Exposition}
+      \field{title}{A survey on comparison of electric motor types and drives used for electric vehicles}
+      \field{year}{2014}
+      \field{pages}{218\bibrangedash 223}
+      \range{pages}{6}
+    \endentry
+    \entry{wildi}{book}{}
+      \name{author}{2}{}{%
+        {{hash=ffe2d30bb274e8d9ed6ad4fbf79a6318}{%
+           family={Wildi},
+           familyi={W\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=bc41f75029678293c9d56202cf909e87}{%
+           family={Sybille},
+           familyi={S\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {De Boeck Sup{é}rieur}%
+      }
+      \strng{namehash}{a7317be773be0182aa0d8f6c93856bc8}
+      \strng{fullhash}{a7317be773be0182aa0d8f6c93856bc8}
+      \strng{bibnamehash}{a7317be773be0182aa0d8f6c93856bc8}
+      \strng{authorbibnamehash}{a7317be773be0182aa0d8f6c93856bc8}
+      \strng{authornamehash}{a7317be773be0182aa0d8f6c93856bc8}
+      \strng{authorfullhash}{a7317be773be0182aa0d8f6c93856bc8}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9782804148928}
+      \field{series}{Physique g{é}n{é}rale}
+      \field{title}{{É}lectrotechnique}
+      \field{year}{2005}
+    \endentry
+    \entry{rajamani2011vehicle}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5717dc9f74e5eaacf7b799dc671ef702}{%
+           family={Rajamani},
+           familyi={R\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer US}%
+      }
+      \strng{namehash}{5717dc9f74e5eaacf7b799dc671ef702}
+      \strng{fullhash}{5717dc9f74e5eaacf7b799dc671ef702}
+      \strng{bibnamehash}{5717dc9f74e5eaacf7b799dc671ef702}
+      \strng{authorbibnamehash}{5717dc9f74e5eaacf7b799dc671ef702}
+      \strng{authornamehash}{5717dc9f74e5eaacf7b799dc671ef702}
+      \strng{authorfullhash}{5717dc9f74e5eaacf7b799dc671ef702}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781461414339}
+      \field{series}{Mechanical Engineering Series}
+      \field{title}{Vehicle Dynamics and Control}
+      \field{year}{2011}
+    \endentry
+    \entry{en11010120}{article}{}
+      \name{author}{5}{}{%
+        {{hash=5d617b4e5e2006a7acf2ae24859dbb68}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Fengxiang},
+           giveni={F\bibinitperiod}}}%
+        {{hash=abb501bf2512a2fe5109cf99fa20a4a9}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Zhenbin},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=04b21f844321246ad0fe29b142f29aca}{%
+           family={Mei},
+           familyi={M\bibinitperiod},
+           given={Xuezhu},
+           giveni={X\bibinitperiod}}}%
+        {{hash=79bb537070981ce9bf7773bb7b0a8672}{%
+           family={Rodríguez},
+           familyi={R\bibinitperiod},
+           given={José},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5f29d8b6aa620bd39c24983c63bd667d}{%
+           family={Kennel},
+           familyi={K\bibinitperiod},
+           given={Ralph},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{c7965d17b197541d8bbb4339b257e98b}
+      \strng{fullhash}{30b1e254daf2b295984f7c486bb98f84}
+      \strng{bibnamehash}{30b1e254daf2b295984f7c486bb98f84}
+      \strng{authorbibnamehash}{30b1e254daf2b295984f7c486bb98f84}
+      \strng{authornamehash}{c7965d17b197541d8bbb4339b257e98b}
+      \strng{authorfullhash}{30b1e254daf2b295984f7c486bb98f84}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1996-1073}
+      \field{journaltitle}{Energies}
+      \field{number}{1}
+      \field{title}{Advanced Control Strategies of Induction Machine: Field Oriented Control, Direct Torque Control and Model Predictive Control}
+      \field{volume}{11}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb http://www.mdpi.com/1996-1073/11/1/120
+      \endverb
+      \verb{url}
+      \verb http://www.mdpi.com/1996-1073/11/1/120
+      \endverb
+    \endentry
+    \entry{REVA_anal}{manual}{}
+      \name{author}{2}{}{%
+        {{hash=dab40ded8faf2ffacd2d375d998c8c93}{%
+           family={Jeunfai\bibnamedelima Lo},
+           familyi={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Lars\bibnamedelima Dedobbeleer},
+           giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=c95b908d6d082b7864049ae9b837bb81}{%
+           family={Strijckers},
+           familyi={S\bibinitperiod},
+           given={Jeroen},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {VUB}%
+      }
+      \strng{namehash}{831bbcf6480c09d484be8f6bf3ff04af}
+      \strng{fullhash}{831bbcf6480c09d484be8f6bf3ff04af}
+      \strng{bibnamehash}{831bbcf6480c09d484be8f6bf3ff04af}
+      \strng{authorbibnamehash}{831bbcf6480c09d484be8f6bf3ff04af}
+      \strng{authornamehash}{831bbcf6480c09d484be8f6bf3ff04af}
+      \strng{authorfullhash}{831bbcf6480c09d484be8f6bf3ff04af}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Case study: Diagnostic and Technical analysis of REVA EV Drivetrain}
+      \field{year}{2016}
+    \endentry
+    \entry{Curtis_User_Manual}{manual}{}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labeltitlesource}{title}
+      \field{title}{Curtis 1236 User Manual}
+      \field{urlday}{17}
+      \field{urlmonth}{8}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.thunderstruck-ev.com/Manuals/1234_36_38%20Manual%20Rev%20Feb%2009.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.thunderstruck-ev.com/Manuals/1234_36_38%20Manual%20Rev%20Feb%2009.pdf
+      \endverb
+    \endentry
+    \entry{Curtis_troubleshooting}{misc}{}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Hi Performance electric vehicle}
+      \field{title}{Electrical Schematics and Documentation FOR CURTIS 1232-1238}
+      \verb{urlraw}
+      \verb http://www.hpevs.com/Site/images/jpeg/Schematics/e-controllers/1232_38_e_controllers/530_and_up/auto1232_1238-532_E_Controller_revA_11-29-16.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.hpevs.com/Site/images/jpeg/Schematics/e-controllers/1232_38_e_controllers/530_and_up/auto1232_1238-532_E_Controller_revA_11-29-16.pdf
+      \endverb
+    \endentry
+    \entry{SuperB}{manual}{}
+      \name{author}{1}{}{%
+        {{hash=41dca08ac99daf320195a1e5f1851e19}{%
+           family={B},
+           familyi={B\bibinitperiod},
+           given={Super},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{41dca08ac99daf320195a1e5f1851e19}
+      \strng{fullhash}{41dca08ac99daf320195a1e5f1851e19}
+      \strng{bibnamehash}{41dca08ac99daf320195a1e5f1851e19}
+      \strng{authorbibnamehash}{41dca08ac99daf320195a1e5f1851e19}
+      \strng{authornamehash}{41dca08ac99daf320195a1e5f1851e19}
+      \strng{authorfullhash}{41dca08ac99daf320195a1e5f1851e19}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{User Manual SB12V160E-ZC Lithium Iron Phosphate battery}
+      \field{urlday}{17}
+      \field{urlmonth}{8}
+      \field{urlyear}{2018}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.britmarpower.com/wp-content/uploads/2013/10/Manual_SB12V160E-ZC_V2.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.britmarpower.com/wp-content/uploads/2013/10/Manual_SB12V160E-ZC_V2.pdf
+      \endverb
+    \endentry
+    \entry{Modern_Control_System}{book}{}
+      \name{author}{2}{}{%
+        {{hash=32195a5dda82478b5a0a5f338b21f8d4}{%
+           family={Dorf},
+           familyi={D\bibinitperiod},
+           given={Richard\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=1e2c064467041f4972349420ee131943}{%
+           family={Bishop},
+           familyi={B\bibinitperiod},
+           given={Robert\bibnamedelima H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Upper Saddle River, NJ, USA}%
+      }
+      \list{publisher}{1}{%
+        {Prentice-Hall, Inc.}%
+      }
+      \strng{namehash}{e16baff5f8c63e797aa1ef35df276083}
+      \strng{fullhash}{e16baff5f8c63e797aa1ef35df276083}
+      \strng{bibnamehash}{e16baff5f8c63e797aa1ef35df276083}
+      \strng{authorbibnamehash}{e16baff5f8c63e797aa1ef35df276083}
+      \strng{authornamehash}{e16baff5f8c63e797aa1ef35df276083}
+      \strng{authorfullhash}{e16baff5f8c63e797aa1ef35df276083}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{12th}
+      \field{isbn}{0136024580}
+      \field{title}{Modern Control Systems}
+      \field{year}{2010}
+    \endentry
+    \entry{sysidLen}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e86b04f344e0d6058b315b95af6f9c01}{%
+           family={Ljung},
+           familyi={L\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Prentice Hall PTR}%
+      }
+      \strng{namehash}{e86b04f344e0d6058b315b95af6f9c01}
+      \strng{fullhash}{e86b04f344e0d6058b315b95af6f9c01}
+      \strng{bibnamehash}{e86b04f344e0d6058b315b95af6f9c01}
+      \strng{authorbibnamehash}{e86b04f344e0d6058b315b95af6f9c01}
+      \strng{authornamehash}{e86b04f344e0d6058b315b95af6f9c01}
+      \strng{authorfullhash}{e86b04f344e0d6058b315b95af6f9c01}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780136566953}
+      \field{series}{Prentice Hall information and system sciences series}
+      \field{title}{System Identification: Theory for the User}
+      \field{year}{1999}
+    \endentry
+    \entry{chan2011applied}{book}{}
+      \name{author}{2}{}{%
+        {{hash=79d7bc101c44909f22d6643ff85bbeae}{%
+           family={Chan},
+           familyi={C\bibinitperiod},
+           given={T.F.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=e82f0d04a6e2ab98ebb8242081aba34d}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{0b9b8d5c192c57ac98e29918f3741dbb}
+      \strng{fullhash}{0b9b8d5c192c57ac98e29918f3741dbb}
+      \strng{bibnamehash}{0b9b8d5c192c57ac98e29918f3741dbb}
+      \strng{authorbibnamehash}{0b9b8d5c192c57ac98e29918f3741dbb}
+      \strng{authornamehash}{0b9b8d5c192c57ac98e29918f3741dbb}
+      \strng{authorfullhash}{0b9b8d5c192c57ac98e29918f3741dbb}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780470828281}
+      \field{series}{Wiley - IEEE}
+      \field{title}{Applied Intelligent Control of Induction Motor Drives}
+      \field{year}{2011}
+    \endentry
+    \entry{abdessemed2011modelisation}{book}{}
+      \name{author}{1}{}{%
+        {{hash=444c0acead8f310196da08fd85153b65}{%
+           family={Abdessemed},
+           familyi={A\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Ellipses}%
+      }
+      \strng{namehash}{444c0acead8f310196da08fd85153b65}
+      \strng{fullhash}{444c0acead8f310196da08fd85153b65}
+      \strng{bibnamehash}{444c0acead8f310196da08fd85153b65}
+      \strng{authorbibnamehash}{444c0acead8f310196da08fd85153b65}
+      \strng{authornamehash}{444c0acead8f310196da08fd85153b65}
+      \strng{authorfullhash}{444c0acead8f310196da08fd85153b65}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9782729864958}
+      \field{series}{Technosup (Paris)}
+      \field{title}{Mod{é}lisation et simulation des machines {é}lectriques}
+      \field{year}{2011}
+    \endentry
+    \entry{giri2013ac}{book}{}
+      \name{author}{1}{}{%
+        {{hash=08b96fc9a3d52d20953a4a3882b9d51f}{%
+           family={Giri},
+           familyi={G\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{08b96fc9a3d52d20953a4a3882b9d51f}
+      \strng{fullhash}{08b96fc9a3d52d20953a4a3882b9d51f}
+      \strng{bibnamehash}{08b96fc9a3d52d20953a4a3882b9d51f}
+      \strng{authorbibnamehash}{08b96fc9a3d52d20953a4a3882b9d51f}
+      \strng{authornamehash}{08b96fc9a3d52d20953a4a3882b9d51f}
+      \strng{authorfullhash}{08b96fc9a3d52d20953a4a3882b9d51f}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781118574249}
+      \field{title}{AC Electric Motors Control: Advanced Design Techniques and Applications}
+      \field{year}{2013}
+    \endentry
+    \entry{ControlForUnmandVic}{article}{}
+      \name{author}{2}{}{%
+        {{hash=480480057b4d0c19ef2a5ae6f04139c6}{%
+           family={Lai},
+           familyi={L\bibinitperiod},
+           given={Ying-Chih},
+           giveni={Y\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=3072cf870ef43bc6f33706afae728fce}{%
+           family={Ting},
+           familyi={T\bibinitperiod},
+           given={Wen\bibnamedelima Ong},
+           giveni={W\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \strng{namehash}{aa469d729e35b4addb173e6f343f26de}
+      \strng{fullhash}{aa469d729e35b4addb173e6f343f26de}
+      \strng{bibnamehash}{aa469d729e35b4addb173e6f343f26de}
+      \strng{authorbibnamehash}{aa469d729e35b4addb173e6f343f26de}
+      \strng{authornamehash}{aa469d729e35b4addb173e6f343f26de}
+      \strng{authorfullhash}{aa469d729e35b4addb173e6f343f26de}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2076-3417}
+      \field{journaltitle}{Applied Sciences}
+      \field{number}{11}
+      \field{title}{Design and Implementation of an Optimal Energy Control System for Fixed-Wing Unmanned Aerial Vehicles}
+      \field{volume}{6}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb http://www.mdpi.com/2076-3417/6/11/369
+      \endverb
+      \verb{url}
+      \verb http://www.mdpi.com/2076-3417/6/11/369
+      \endverb
+    \endentry
+    \entry{researchgate}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ResearchGate}
+      \field{title}{How to design perturbation signal for the identification of nonlinear system?}
+      \field{urlday}{18}
+      \field{urlmonth}{8}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.researchgate.net/post/How_to_design_perturbation_signal_for_the_identification_of_nonlinear_system
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/post/How_to_design_perturbation_signal_for_the_identification_of_nonlinear_system
+      \endverb
+    \endentry
+    \entry{tangirala_2013}{book}{}
+      \name{author}{1}{}{%
+        {{hash=dc1cecc6f5a0e53d404683ff7516213c}{%
+           family={Tangirala},
+           familyi={T\bibinitperiod},
+           given={Arun\bibnamedelima K.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Department of Chemical Engineering IIT Madras}%
+      }
+      \strng{namehash}{dc1cecc6f5a0e53d404683ff7516213c}
+      \strng{fullhash}{dc1cecc6f5a0e53d404683ff7516213c}
+      \strng{bibnamehash}{dc1cecc6f5a0e53d404683ff7516213c}
+      \strng{authorbibnamehash}{dc1cecc6f5a0e53d404683ff7516213c}
+      \strng{authornamehash}{dc1cecc6f5a0e53d404683ff7516213c}
+      \strng{authorfullhash}{dc1cecc6f5a0e53d404683ff7516213c}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{System Identification : lecture 2}
+      \field{urlday}{13}
+      \field{urlmonth}{8}
+      \field{urlyear}{2018}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.it.uu.se/edu/course/homepage/systemid/vt17/sysid_s2017_2.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.it.uu.se/edu/course/homepage/systemid/vt17/sysid_s2017_2.pdf
+      \endverb
+    \endentry
+    \entry{eskandarian2012handbook}{book}{}
+      \name{author}{1}{}{%
+        {{hash=8ecb7dcf9e3a3036a1fbc6aacda8a364}{%
+           family={Eskandarian},
+           familyi={E\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer London}%
+      }
+      \strng{namehash}{8ecb7dcf9e3a3036a1fbc6aacda8a364}
+      \strng{fullhash}{8ecb7dcf9e3a3036a1fbc6aacda8a364}
+      \strng{bibnamehash}{8ecb7dcf9e3a3036a1fbc6aacda8a364}
+      \strng{authorbibnamehash}{8ecb7dcf9e3a3036a1fbc6aacda8a364}
+      \strng{authornamehash}{8ecb7dcf9e3a3036a1fbc6aacda8a364}
+      \strng{authorfullhash}{8ecb7dcf9e3a3036a1fbc6aacda8a364}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780857290847}
+      \field{series}{Handbook of Intelligent Vehicles}
+      \field{title}{Handbook of Intelligent Vehicles}
+      \field{year}{2012}
+    \endentry
+    \entry{Astrom_Murray}{book}{}
+      \name{author}{2}{}{%
+        {{hash=3d3bde0ef5111722143b60653393d939}{%
+           family={Astrom},
+           familyi={A\bibinitperiod},
+           given={Karl\bibnamedelima Johan},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=ca7282e44d5a1af38c9f9ca66aef8e0e}{%
+           family={Murray},
+           familyi={M\bibinitperiod},
+           given={Richard\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Princeton, NJ, USA}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{6a41d0824927585c2bc7d14a94a0d336}
+      \strng{fullhash}{6a41d0824927585c2bc7d14a94a0d336}
+      \strng{bibnamehash}{6a41d0824927585c2bc7d14a94a0d336}
+      \strng{authorbibnamehash}{6a41d0824927585c2bc7d14a94a0d336}
+      \strng{authornamehash}{6a41d0824927585c2bc7d14a94a0d336}
+      \strng{authorfullhash}{6a41d0824927585c2bc7d14a94a0d336}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780691135762}
+      \field{title}{Feedback Systems: An Introduction for Scientists and Engineers}
+      \field{year}{2008}
+    \endentry
+    \entry{PID_theory_control_tuning}{book}{}
+      \name{author}{2}{}{%
+        {{hash=24743b3c9bba4abf2fc83abab616459b}{%
+           family={{AA}str{ö}m},
+           familyi={A\bibinitperiod},
+           given={K.\bibnamedelimi J.},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=2ac83e13adcd7e0b5f4639dbb7ac5f7b}{%
+           family={H{ä}gglund},
+           familyi={H\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Instrument Society of America, Research Triangle Park, NC}%
+      }
+      \strng{namehash}{ba83428c3c30502d6c16e406240efe7c}
+      \strng{fullhash}{ba83428c3c30502d6c16e406240efe7c}
+      \strng{bibnamehash}{ba83428c3c30502d6c16e406240efe7c}
+      \strng{authorbibnamehash}{ba83428c3c30502d6c16e406240efe7c}
+      \strng{authornamehash}{ba83428c3c30502d6c16e406240efe7c}
+      \strng{authorfullhash}{ba83428c3c30502d6c16e406240efe7c}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{{PID Controllers: Theory, Design, and Tuning}}
+      \field{year}{1995}
+      \keyw{ifac\_safeprocess}
+    \endentry
+    \entry{RollerBenchThesis}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=b57e254e892fdf883321838c63a6d048}{%
+           family={Candeur},
+           familyi={C\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Vrij Universiteit van Brussel}%
+      }
+      \strng{namehash}{b57e254e892fdf883321838c63a6d048}
+      \strng{fullhash}{b57e254e892fdf883321838c63a6d048}
+      \strng{bibnamehash}{b57e254e892fdf883321838c63a6d048}
+      \strng{authorbibnamehash}{b57e254e892fdf883321838c63a6d048}
+      \strng{authornamehash}{b57e254e892fdf883321838c63a6d048}
+      \strng{authorfullhash}{b57e254e892fdf883321838c63a6d048}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Vehicle roller test bench development}}
+      \field{type}{mathesis}
+      \field{year}{2014}
+    \endentry
+    \entry{national_instrument_2009}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a2473399895a2bbb3cb849bbb26dbfad}{%
+           family={National\bibnamedelima Instrument},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{a2473399895a2bbb3cb849bbb26dbfad}
+      \strng{fullhash}{a2473399895a2bbb3cb849bbb26dbfad}
+      \strng{bibnamehash}{a2473399895a2bbb3cb849bbb26dbfad}
+      \strng{authorbibnamehash}{a2473399895a2bbb3cb849bbb26dbfad}
+      \strng{authornamehash}{a2473399895a2bbb3cb849bbb26dbfad}
+      \strng{authorfullhash}{a2473399895a2bbb3cb849bbb26dbfad}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{CompactRIO Developers Guide}
+      \field{urlday}{4}
+      \field{urlmonth}{8}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.mit.bme.hu/system/files/oktatas/targyak/7258/criodevgudfull.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.mit.bme.hu/system/files/oktatas/targyak/7258/criodevgudfull.pdf
+      \endverb
+    \endentry
+    \entry{Labview_wiki}{misc}{}
+      \list{publisher}{1}{%
+        {Wikimedia Foundation}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wikipedia}
+      \field{title}{LabVIEW}
+      \field{urlday}{2}
+      \field{urlmonth}{8}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://fr.wikipedia.org/wiki/LabVIEW
+      \endverb
+      \verb{url}
+      \verb https://fr.wikipedia.org/wiki/LabVIEW
+      \endverb
+    \endentry
+    \entry{platt2014encyclopedia}{book}{}
+      \name{author}{2}{}{%
+        {{hash=d81b2c5412280c54b48be83269d6a772}{%
+           family={Platt},
+           familyi={P\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e7a642d6a0a237e36af0c97a48a5b9e4}{%
+           family={Jansson},
+           familyi={J\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Maker Media, Incorporated}%
+      }
+      \strng{namehash}{2cdd426059a70b19f6f0c28d0338b067}
+      \strng{fullhash}{2cdd426059a70b19f6f0c28d0338b067}
+      \strng{bibnamehash}{2cdd426059a70b19f6f0c28d0338b067}
+      \strng{authorbibnamehash}{2cdd426059a70b19f6f0c28d0338b067}
+      \strng{authornamehash}{2cdd426059a70b19f6f0c28d0338b067}
+      \strng{authorfullhash}{2cdd426059a70b19f6f0c28d0338b067}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Encyclopedia of Electronic Components Volume 2: LEDs, LCDs, Audio, Thyristors, Digital Logic, and Amplification}
+      \field{year}{2014}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

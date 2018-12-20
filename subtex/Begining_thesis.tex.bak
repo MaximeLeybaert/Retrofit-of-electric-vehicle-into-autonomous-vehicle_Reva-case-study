@@ -1,0 +1,52 @@
+\chapter*{Résumé}%
+\addcontentsline{toc}{chapter}{Résumé}%
+La Vrij Universiteit van Brussel souhaitait étudier la convertion de leur voiture électrique REVA en voiture autonome. Mon stage de master en ingénieur électromécanique présente la synthèse des recherches menées ainsi que leurs résultats.
+
+La première partie présente le concept général des voitures autonomes et ses applications possibles. Le fonctionnement des capteurs est brièvement expliqué. De plus, des références complémentaires sont annexées afin de permettre au lecteur d’approfondir ses connaissances dans ce domaine. Elle conclut également que la contribution de ce travail se concentrera sur le motion control.  
+
+La deuxième section présente le prototype de platforme de recherches. Un premier rapport mentionnait que les batteries de la REVA avaient été endommagées et retirées du véhicule. De nouvelles batteries ont été branchées permettant de finaliser une série de tests et mesures. Le remplacement des batteries n’est pas concluant. Le diagnostic conclut que du motor drive et l’Energy Mangement System ne sont pas calibrés pour fonctionner avec les nouvelles batteries. De plus, ces dispositifs sont brevetés et ne peuvent être adaptés à la nouvelle source. 
+
+ Le développement du contrôleur de vitesse est ensuite investigué. Ce travail propose une boucle de régulation dont le contrôleur, un PI + gain scheduling, remplace l’intervention du chauffeur en régulant le couple à sa place. Le prototype est analysé et le processus d’identification expérimentale du système est sélectionné. Ce processus permet d’obtenir plusieurs modèles du premier ordre de la REVA à différentes vitesses. Sur base de ce modèle, sont ensuite identifiés les multiples paramètres du contrôleur PI +gain scheduling. La boucle de régulation et les outils pour effectuer l’enregistrement des données est programmé en LabVIEW. Dû au dysfonctionnement de la REVA, les données collectées n’ont pas permis l’identification du système ni des paramètres du contrôleur. 
+
+\chapter*{Abstract}%
+\addcontentsline{toc}{chapter}{Abstract}%
+
+This master thesis presents the work led during my internship at the Vrij Universiteit van Brussel. The university was willing to investigate the autonomous vehicle field and transform their electric vehicle, the REVA, into an autonomous car. 
+
+The first part introduces the general concept of autonomous vehicle and explains their framework. Automotive sensors are then briefly compared and additional references are provided allowing the interested reader to delve into the autonomous field. It concludes that my personal contribution, as a future electromechanical engineer, resides in applying the motion control to the REVA. 
+
+Next, the prototyping platform investigation is presented. A previous report had stated the REVA batteries were damaged and removed. New batteries were plugged, running tests and measurements are presented in that chapter. It concludes that the new batteries do not supply the REVA correctly; its motor drive and Energy Management System parameters do not correspond to the new batteries which led to a dysfunctional behavior of the REVA. Moreover, it also concludes that the REVA motor drive and Energy Management System are unaccessible proprietary systems. 
+
+The building of the speed controller is then investigated. It proposes a feedback control loop using a \acs{pi}+gain scheduling controller replacing the driver torque regulation. The REVA system analysis led to select a data-driven modeling approach to approximate a first order mathematical model of the vehicle. Using this evaluated model the \acs{pi} controller parameters are deduced for each operating speed. The control loop and the dataset generation are implemented using LabVIEW, and a \acs{crio}. Because of the REVA nonoperational state, the REVA models were not approximated neither were the PI parameters sets. 
+
+\chapter*{Acknowledgments}%
+\addcontentsline{toc}{chapter}{Acknowledgements}%
+
+Thank you to Mr. de Cauwer and Mr. Cossemans for making this internship at the \acs{vub} possible and a special thanks to Cedric for his time and advice as a supervisor. 
+
+A special thank to my supervisor Mr. Hearlingen for his valuable tips, Mr. Baiboun and M. Debia for their honesty and their willingness to help me sorting out some project issues.  
+
+I couldn't submit this master thesis without thanking my family for their unconditional love and support; my father for technical knowledge and graphical skills, my mother and my sister for always being supportive and their review.
+
+Finally, thank you to all my friends who have been there when solicitated. 
+
+\cleardoublepage
+\tableofcontents
+\addcontentsline{toc}{chapter}{Table of contents}%
+\cleardoublepage
+% \phantomsection
+
+\listoffigures
+\addcontentsline{toc}{chapter}{\listfigurename}
+\cleardoublepage
+
+\cleardoublepage
+% \phantomsection
+\listoftables
+\addcontentsline{toc}{chapter}{\listtablename}
+\glssetwidest{consectetuer}
+\printglossaries
+\cleardoublepage
+\pagenumbering{arabic}
+\setcounter{page}{1}
+\raggedbottom

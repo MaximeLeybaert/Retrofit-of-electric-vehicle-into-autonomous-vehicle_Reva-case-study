@@ -1,0 +1,15 @@
+[0] Config.pm:302> INFO - This is Biber 2.11
+[0] Config.pm:305> INFO - Logfile is 'master_thesis_v5.blg'
+[41] biber-MSWIN64:313> INFO - === 
+[77] Biber.pm:371> INFO - Reading 'master_thesis_v5.bcf'
+[220] Biber.pm:857> INFO - Found 52 citekeys in bib section 0
+[240] Biber.pm:3976> INFO - Processing section 0
+[259] Biber.pm:4136> INFO - Looking for bibtex format file 'subtex/biblio.bib' for section 0
+[270] bibtex.pm:1500> INFO - LaTeX decoding ...
+[369] bibtex.pm:1316> INFO - Found BibTeX data source 'subtex/biblio.bib'
+[731] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[731] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[732] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[732] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[779] bbl.pm:617> INFO - Writing 'master_thesis_v5.bbl' with encoding 'UTF-8'
+[800] bbl.pm:720> INFO - Output to master_thesis_v5.bbl
